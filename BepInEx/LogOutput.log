@@ -1,0 +1,222 @@
+﻿[Message: Preloader] BepInEx 5.0.0.0 - Risk of Rain 2
+[Info   : Preloader] Running under Unity v2018.3.14.13691377
+[Info   : Preloader] CLR runtime version: 4.0.30319.17020
+[Info   : Preloader] Supports SRE: False
+[Message: Preloader] Preloader started
+[Info   : Preloader] Loaded 1 patcher methods from BepInEx.MonoMod.Loader, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[Info   : Preloader] 2 patcher plugin(s) loaded
+[Info   : Preloader] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Info   : Preloader] Collecting target assemblies from mods
+[Info   : Preloader] Patching [Assembly-CSharp] with [BepInEx.MonoMod.Loader.Patcher]
+[Message: Preloader] [Main] Scanning for mods in directory.
+[Message: Preloader] [ReadMod] Loading mod dir: C:\Program Files (x86)\Steam\steamapps\common\Risk of Rain 2\BepInEx\monomod
+[Message: Preloader] [ReadMod] Loading mod: C:\Program Files (x86)\Steam\steamapps\common\Risk of Rain 2\BepInEx\monomod\Assembly-CSharp.R2API.mm.dll
+[Message: Preloader] [Main] Found 1 mods
+[Message: Preloader] [Main] mm.PatchRefs(); fixup pre-pass
+[Message: Preloader] [Main] mm.AutoPatch();
+[Message: Preloader] [AutoPatch] Parsing rules in loaded mods
+[Info   : Preloader] [MonoMod] [RulesModder] 
+[Info   : Preloader] [Write] Writing modded module into output stream.
+[Message: Preloader] [AutoPatch] PrePatch pass
+[Message: Preloader] [AutoPatch] Patch pass
+[Message: Preloader] [AutoPatch] PatchRefs pass
+[Message: Preloader] [PostProcessor] PostProcessor pass #1
+[Message: Preloader] [Main] Done.
+[Message: Preloader] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 16 plugins to load
+[Info   :   BepInEx] Loading [Configuration Manager 15.1]
+[Info   :   BepInEx] Loading [R2API 2.3.14]
+[Info   :     R2API] Enabling R2API Submodule: DirectorAPI
+[Info   :     R2API] Enabling R2API Submodule: EffectAPI
+[Info   :     R2API] Enabling R2API Submodule: ItemAPI
+[Info   :     R2API] Enabling R2API Submodule: ItemDropAPI
+[Info   :     R2API] Enabling R2API Submodule: LoadoutAPI
+[Info   :     R2API] Enabling R2API Submodule: OrbAPI
+[Info   :     R2API] Enabling R2API Submodule: PrefabAPI
+[Info   :     R2API] Enabling R2API Submodule: SurvivorAPI
+[Info   :     R2API] Enabling R2API Submodule: AssetPlus
+[Info   :   BepInEx] Loading [DeployableOwnerInformation 1.0.2]
+[Info   :   BepInEx] Loading [FluffyLabsConfigManagerTools 1.0.1]
+[Info   :   BepInEx] Loading [InfusionStackFix 4.0.0]
+[Info   :   BepInEx] Loading [PocketMoney 2.0.1]
+[Info   :   BepInEx] Loading [HjUpdaterAPI 1.4.1]
+[Info   :   BepInEx] Loading [StatsDisplay 1.3]
+[Info   : Unity Log] Loaded StatsDisplayMod
+[Info   :   BepInEx] Loading [RoRCheats 3.3.11]
+[Info   :   BepInEx] Loading [BiggerBazaar 1.8.0]
+[Info   :   BepInEx] Loading [NoBossNoWait 1.1.1]
+[Info   :   BepInEx] Loading [My Mod's Title 1.0.0]
+[Info   :   BepInEx] Loading [ReinArchWisps 2.0.1]
+[Info   :   BepInEx] Loading [Rogue Wisp 1.4.1.24]
+[Info   :   BepInEx] Loading [ItemStats 1.4.0]
+[Info   :   BepInEx] Loading [Multitudes 1.3.0]
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] WwiseUnity: Sound engine initialized successfully.
+[Info   : Unity Log] Bloom: True
+[Info   : Unity Log] english
+[Info   : Unity Log] Setting current language to "en"
+[Info   : Unity Log] arg[0]="C:\Program Files (x86)\Steam\steamapps\common\Risk of Rain 2\Risk of Rain 2.exe"
+[Info   : Unity Log] Initializing system: BodyCatalog
+[Info   : Unity Log] Initializing system: BuffCatalog
+[Info   :     R2API] Custom Buff: WispCurseBurn added
+[Info   :     R2API] Custom Buff: WispFlameChargeBuff added
+[Info   :     R2API] Custom Buff: WispArmorBuff added
+[Info   : Unity Log] Initializing system: CostTypeCatalog
+[Info   : Unity Log] Initializing system: EffectCatalog
+[Info   : Unity Log] Initializing system: EliteCatalog
+[Info   : Unity Log] Initializing system: EquipmentCatalog
+[Info   : Unity Log] Initializing system: ItemCatalog
+[Info   : Unity Log] Initializing system: ItemMaskNetworkExtensions
+[Info   : Unity Log] Initializing system: MasterCatalog
+[Info   : Unity Log] Initializing system: PickupCatalog
+[Info   : Unity Log] Initializing system: ProjectileCatalog
+[Info   : Unity Log] Initializing system: RuleCatalog
+[Info   : Unity Log] Initializing system: SceneCatalog
+[Info   : Unity Log] Initializing system: SteamworksServerManager
+[Info   : Unity Log] Initializing system: SurvivorCatalog
+[Warning: Unity Log] Unregistered survivor Bandit!
+[Info   :     R2API] Survivor: Rogue Wisp added
+[Info   : Unity Log] Initializing system: UnlockableCatalog
+[Info   : Unity Log] Initializing system: UserProfile
+[Info   : Unity Log] Initializing system: StatDef
+[Info   : Unity Log] Registering key 'arena' with stat name 'totalTimesVisited.arena'
+[Info   : Unity Log] Registering key 'bazaar' with stat name 'totalTimesVisited.bazaar'
+[Info   : Unity Log] Registering key 'blackbeach' with stat name 'totalTimesVisited.blackbeach'
+[Info   : Unity Log] Registering key 'crystalworld' with stat name 'totalTimesVisited.crystalworld'
+[Info   : Unity Log] Registering key 'dampcavesimple' with stat name 'totalTimesVisited.dampcavesimple'
+[Info   : Unity Log] Registering key 'foggyswamp' with stat name 'totalTimesVisited.foggyswamp'
+[Info   : Unity Log] Registering key 'frozenwall' with stat name 'totalTimesVisited.frozenwall'
+[Info   : Unity Log] Registering key 'goldshores' with stat name 'totalTimesVisited.goldshores'
+[Info   : Unity Log] Registering key 'golemplains' with stat name 'totalTimesVisited.golemplains'
+[Info   : Unity Log] Registering key 'goolake' with stat name 'totalTimesVisited.goolake'
+[Info   : Unity Log] Registering key 'limbo' with stat name 'totalTimesVisited.limbo'
+[Info   : Unity Log] Registering key 'lobby' with stat name 'totalTimesVisited.lobby'
+[Info   : Unity Log] Registering key 'logbook' with stat name 'totalTimesVisited.logbook'
+[Info   : Unity Log] Registering key 'mysteryspace' with stat name 'totalTimesVisited.mysteryspace'
+[Info   : Unity Log] Registering key 'shipgraveyard' with stat name 'totalTimesVisited.shipgraveyard'
+[Info   : Unity Log] Registering key 'title' with stat name 'totalTimesVisited.title'
+[Info   : Unity Log] Registering key 'wispgraveyard' with stat name 'totalTimesVisited.wispgraveyard'
+[Info   : Unity Log] Registering key 'arena' with stat name 'totalTimesCleared.arena'
+[Info   : Unity Log] Registering key 'bazaar' with stat name 'totalTimesCleared.bazaar'
+[Info   : Unity Log] Registering key 'blackbeach' with stat name 'totalTimesCleared.blackbeach'
+[Info   : Unity Log] Registering key 'crystalworld' with stat name 'totalTimesCleared.crystalworld'
+[Info   : Unity Log] Registering key 'dampcavesimple' with stat name 'totalTimesCleared.dampcavesimple'
+[Info   : Unity Log] Registering key 'foggyswamp' with stat name 'totalTimesCleared.foggyswamp'
+[Info   : Unity Log] Registering key 'frozenwall' with stat name 'totalTimesCleared.frozenwall'
+[Info   : Unity Log] Registering key 'goldshores' with stat name 'totalTimesCleared.goldshores'
+[Info   : Unity Log] Registering key 'golemplains' with stat name 'totalTimesCleared.golemplains'
+[Info   : Unity Log] Registering key 'goolake' with stat name 'totalTimesCleared.goolake'
+[Info   : Unity Log] Registering key 'limbo' with stat name 'totalTimesCleared.limbo'
+[Info   : Unity Log] Registering key 'lobby' with stat name 'totalTimesCleared.lobby'
+[Info   : Unity Log] Registering key 'logbook' with stat name 'totalTimesCleared.logbook'
+[Info   : Unity Log] Registering key 'mysteryspace' with stat name 'totalTimesCleared.mysteryspace'
+[Info   : Unity Log] Registering key 'shipgraveyard' with stat name 'totalTimesCleared.shipgraveyard'
+[Info   : Unity Log] Registering key 'title' with stat name 'totalTimesCleared.title'
+[Info   : Unity Log] Registering key 'wispgraveyard' with stat name 'totalTimesCleared.wispgraveyard'
+[Info   : Unity Log] Initializing system: StatSheet
+[Info   : Unity Log] Initializing system: SkillCatalog
+[Info   : Unity Log] Initializing system: ArenaInfoPanel
+[Info   : Unity Log] Initializing system: NetworkSoundEventCatalog
+[Info   : Unity Log] Initializing system: AchievementManager
+[Info   : Unity Log] Initializing system: BuffMask
+[Info   : Unity Log] Initializing system: LunarItemOrEquipmentCostTypeHelper
+[Info   : Unity Log] Initializing system: ItemDisplayRuleSet
+[Info   : Unity Log] Initializing system: EquipmentMask
+[Info   : Unity Log] Initializing system: PreGameRuleVoteController
+[Info   : Unity Log] Initializing system: ShrineCleanseBehavior
+[Info   : Unity Log] Initializing system: GameModeCatalog
+[Info   : Unity Log] Registered gamemode ClassicRun True
+[Info   : Unity Log] Registered gamemode WeeklyRun True
+[Info   : Unity Log] Initializing system: BodyLoadoutManager
+[Info   : Unity Log] Initializing system: RuleBook
+[Info   : Unity Log] Attempting to load user profile /UserProfiles/6975cc3b-2330-4eb6-82a9-b09b224e9b3e.xml
+[Info   : Unity Log] stream.Length=115641
+[Info   : Unity Log] english
+[Info   : Unity Log] Setting current language to "en"
+[Info   : Unity Log] Loaded archived convars.
+[Info   : Unity Log] Could not load config /Config/autoexec.cfg: Could not find file "C:\Program Files (x86)\Steam\steamapps\common\Risk of Rain 2\Risk of Rain 2_Data\Config\autoexec.cfg"
+[Info   : Unity Log] Active scene changed from  to title
+[Info   : Unity Log] Loaded scene title loadSceneMode=2
+[Info   : Unity Log] [HjUpdaterAPI] Checking updates for 3 mod(s)...
+[Warning: Unity Log] [RoRCheats] Registered Key : Insert
+[Warning: Unity Log] [RoRCheats] Registered Key : V
+[Warning: Unity Log] [RoRCheats] Registered Key : B
+[Warning: Unity Log] [RoRCheats] Registered Key : C
+[Warning: Unity Log] [RoRCheats] Registered Key : X
+[Info   : Unity Log] [RoRCheats] Loaded Default Keybinds
+[Info   : Unity Log] [HjUpdaterAPI] Mods list fetched.
+[Info   : Unity Log] [HjUpdaterAPI] The package (mod) named 'HjUpdaterAPI' (1.4.1) is up to date.
+[Info   : Unity Log] [HjUpdaterAPI] The package (mod) named 'RoRCheats' (3.3.11) is up to date.
+[Info   : Unity Log] [HjUpdaterAPI] The package (mod) named 'NoBossNoWait' (1.1.1) is up to date.
+[Info   : Unity Log] [HjUpdaterAPI] All registered mod have been checked for newer versions. This update process is now complete.
+[Info   : Unity Log] GameNetworkManager.desiredHost={ hostType=Self listen=False maxPlayers=4 }
+[Info   : Unity Log] Unloaded scene title
+[Info   : Unity Log] FlashWindow.Flash(1974924)
+[Info   : Unity Log] Active scene changed from  to lobby
+[Info   : Unity Log] Loaded scene lobby loadSceneMode=Single
+[Info   : Unity Log] Adding local player controller 0 on connection hostId: -1 connectionId: 0 isReady: False channel count: 0
+[Info   : Unity Log] GameNetworkManager.AddPlayerInternal(conn=hostId: -1 connectionId: 0 isReady: False channel count: 0, playerControllerId=0, extraMessageReader=NetBuf sz:251 pos:251
+[Info   : Unity Log] FlashWindow.Flash(1974924)
+[Info   : Unity Log] OnClientSceneChanged networkSceneName=lobby currentSceneName=lobby
+[Error  : Unity Log] A connection has already been set as ready. There can only be one.
+[Info   : Unity Log] Player 0 already added, aborting.
+[Info   : Unity Log] Attempting to generate PreGameVoteController for Zyxeion
+[Info   : Unity Log] <style=cEvent>Zyxeion connected.</color>
+[Info   : Unity Log] Unloaded scene lobby
+[Info   : Unity Log] Active scene changed from  to golemplains
+[Info   : Unity Log] Loaded scene golemplains loadSceneMode=Single
+[Info   : Unity Log] OnClientSceneChanged networkSceneName=golemplains currentSceneName=golemplains
+[Info   : Unity Log] Client ready.
+[Info   : Unity Log] Player 0 already added, aborting.
+[Info   : Unity Log] Spending 550 credits on interactables...
+[Info   : Unity Log] reorder list
+[Error  : Unity Log] FileNotFoundException: Could not load file or assembly 'TextMeshPro-1.0.55.2017.1.0b11, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+Stack trace:
+StatsDisplay.StatsDisplay.Update () (at <372153f7ecc04005aa28b4f525d700b7>:0)
+
+[Info   : Unity Log] <style=cWorldEvent>A blue orb appears..</style>
+[Error  : Unity Log] Object PodGroundImpact(Clone) (UnityEngine.GameObject) should not be instantiated by means other than EffectManager.instance.SpawnEffect.
+[Info   : Unity Log] GenericPickupController.HandlePickupMessage: Received pickup message.
+[Info   : Unity Log] <style=cEvent>You picked up <color=#FFFFFF>Stun Grenade</color></color>
+[Warning: Unity Log] Animator.GotoState: State could not be found
+[Warning: Unity Log] Invalid Layer Index '-1'
+[Warning: Unity Log] Animator.GotoState: State could not be found
+[Warning: Unity Log] Invalid Layer Index '-1'
+[Warning: Unity Log] Animator.GotoState: State could not be found
+[Warning: Unity Log] Invalid Layer Index '-1'
+[Info   : Unity Log] <style=cEvent>You activated the <style=cDeath>Teleporter <sprite name="TP" tint=1></style>.</style>
+[Info   : Unity Log] Transfered 21.2 monster credits from Director (UnityEngine.GameObject) to Director (UnityEngine.GameObject)
+[Info   : Unity Log] Transfered 21.68 monster credits from Director (UnityEngine.GameObject) to Teleporter1(Clone) (UnityEngine.GameObject)
+[Error  : Unity Log] Object BeetleQueenBurrow(Clone) (UnityEngine.GameObject) should not be instantiated by means other than EffectManager.instance.SpawnEffect.
+[Info   : Unity Log] Transfered 90.8 monster credits from Teleporter1(Clone) (UnityEngine.GameObject) to Teleporter1(Clone) (UnityEngine.GameObject)
+[Error  : Unity Log] Object BeetleQueenScream(Clone) (UnityEngine.GameObject) should not be instantiated by means other than EffectManager.instance.SpawnEffect.
+[Warning: Unity Log] Animator.GotoState: State could not be found
+[Warning: Unity Log] Invalid Layer Index '-1'
+[Info   : Unity Log] <style=cDeath><sprite name="Skull" tint=1> Crushed. <sprite name="Skull" tint=1></style>
+[Info   : Unity Log] Saved file "6975cc3b-2330-4eb6-82a9-b09b224e9b3e.xml" (115641 bytes)
+[Info   : Unity Log] Shutting down Steamworks...
+[Info   : Unity Log] Shut down Steamworks.
+[Error  : Unity Log] Cannot set the parent of the GameObject 'Flames' while activating or deactivating the parent GameObject 'FireballGhost(Clone)'.
+[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
+Stack trace:
+RoR2.Projectile.ProjectileController.OnDestroy () (at <5cdee1c8afdf42e2a8df7bd1ae8dc681>:0)
+
+[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
+Stack trace:
+RoR2.Projectile.ProjectileController.OnDestroy () (at <5cdee1c8afdf42e2a8df7bd1ae8dc681>:0)
+
+[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
+Stack trace:
+RoR2.Projectile.ProjectileController.OnDestroy () (at <5cdee1c8afdf42e2a8df7bd1ae8dc681>:0)
+
+[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
+Stack trace:
+RoR2.Projectile.ProjectileController.OnDestroy () (at <5cdee1c8afdf42e2a8df7bd1ae8dc681>:0)
+
+[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
+Stack trace:
+RoR2.Projectile.ProjectileController.OnDestroy () (at <5cdee1c8afdf42e2a8df7bd1ae8dc681>:0)
+
+[Error  : Unity Log] Cannot set the parent of the GameObject 'Flames' while activating or deactivating the parent GameObject 'FireballGhost(Clone)'.
